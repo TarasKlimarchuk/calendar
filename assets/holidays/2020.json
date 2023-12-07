@@ -4,7 +4,387 @@
     "date": "2020-01-01"
   },
   {
-    "name": "(Julian) Christmas",
+    "name": "Epiphany",
+    "date": "2020-01-06"
+  },
+  {
+    "name": "Carnival",
+    "date": "2020-02-24"
+  },
+  {
+    "name": "Constitution Day",
+    "date": "2020-03-14"
+  },
+  {
+    "name": "Good Friday",
+    "date": "2020-04-10"
+  },
+  {
+    "name": "Easter Monday",
+    "date": "2020-04-13"
+  },
+  {
+    "name": "Labour Day",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Whit Monday",
+    "date": "2020-06-01"
+  },
+  {
+    "name": "Assumption Day",
+    "date": "2020-08-15"
+  },
+  {
+    "name": "National Holiday",
+    "date": "2020-09-08"
+  },
+  {
+    "name": "All Saints' Day",
+    "date": "2020-11-01"
+  },
+  {
+    "name": "Immaculate Conception",
+    "date": "2020-12-08"
+  },
+  {
+    "name": "Christmas Day",
+    "date": "2020-12-25"
+  },
+  {
+    "name": "St. Stephen's Day",
+    "date": "2020-12-26"
+  },
+  {
+    "name": "New Year's Day",
+    "date": "2020-01-02"
+  },
+  {
+    "name": "Summer Day",
+    "date": "2020-03-16"
+  },
+  {
+    "name": "Nowruz",
+    "date": "2020-03-23"
+  },
+  {
+    "name": "Easter Sunday",
+    "date": "2020-04-12"
+  },
+  {
+    "name": "Easter Sunday",
+    "date": "2020-04-19"
+  },
+  {
+    "name": "Easter Monday",
+    "date": "2020-04-20"
+  },
+  {
+    "name": "May Day",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Mother Teresa Day",
+    "date": "2020-10-19"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-11-30"
+  },
+  {
+    "name": "Liberation Day",
+    "date": "2020-11-30"
+  },
+  {
+    "name": "Youth Day",
+    "date": "2020-12-08"
+  },
+  {
+    "name": "Carnival",
+    "date": "2020-02-25"
+  },
+  {
+    "name": "Day of Remembrance for Truth and Justice",
+    "date": "2020-03-24"
+  },
+  {
+    "name": "Day of the Veterans and Fallen of the Malvinas War",
+    "date": "2020-04-02"
+  },
+  {
+    "name": "May Revolution",
+    "date": "2020-05-25"
+  },
+  {
+    "name": "Anniversary of the Passing of General Martín Miguel de Güemes",
+    "date": "2020-06-17"
+  },
+  {
+    "name": "General Manuel Belgrano Memorial Day",
+    "date": "2020-06-20"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-07-09"
+  },
+  {
+    "name": "General José de San Martín Memorial Day",
+    "date": "2020-08-17"
+  },
+  {
+    "name": "Day of Respect for Cultural Diversity",
+    "date": "2020-10-12"
+  },
+  {
+    "name": "National Sovereignty Day",
+    "date": "2020-11-20"
+  },
+  {
+    "name": "Immaculate Conception Day",
+    "date": "2020-12-08"
+  },
+  {
+    "name": "National Holiday",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Ascension Day",
+    "date": "2020-05-21"
+  },
+  {
+    "name": "Corpus Christi",
+    "date": "2020-06-11"
+  },
+  {
+    "name": "National Holiday",
+    "date": "2020-10-26"
+  },
+  {
+    "name": "Australia Day",
+    "date": "2020-01-27"
+  },
+  {
+    "name": "Anzac Day",
+    "date": "2020-04-25"
+  },
+  {
+    "name": "St. Stephen's Day",
+    "date": "2020-12-28"
+  },
+  {
+    "name": "Demilitarization Day",
+    "date": "2020-03-30"
+  },
+  {
+    "name": "Walpurgis Night",
+    "date": "2020-04-30"
+  },
+  {
+    "name": "Pentecost",
+    "date": "2020-05-31"
+  },
+  {
+    "name": "Epiphany",
+    "date": "2020-06-01"
+  },
+  {
+    "name": "Autonomy Day",
+    "date": "2020-06-09"
+  },
+  {
+    "name": "Midsummer Eve",
+    "date": "2020-06-19"
+  },
+  {
+    "name": "Midsummer Day",
+    "date": "2020-06-20"
+  },
+  {
+    "name": "All Saints Day",
+    "date": "2020-11-07"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-12-06"
+  },
+  {
+    "name": "Christmas Eve",
+    "date": "2020-12-24"
+  },
+  {
+    "name": "May Day / International Workers' Day",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "May Day / International Workers' Day",
+    "date": "2020-05-02"
+  },
+  {
+    "name": "Errol Barrow Day",
+    "date": "2020-01-21"
+  },
+  {
+    "name": "National Heroes' Day",
+    "date": "2020-04-28"
+  },
+  {
+    "name": "Emancipation Day",
+    "date": "2020-08-01"
+  },
+  {
+    "name": "Kadooment Day",
+    "date": "2020-08-03"
+  },
+  {
+    "name": "Boxing Day",
+    "date": "2020-12-26"
+  },
+  {
+    "name": "Day after Ascension Day",
+    "date": "2020-05-22"
+  },
+  {
+    "name": "Belgian National Day",
+    "date": "2020-07-21"
+  },
+  {
+    "name": "Armistice Day",
+    "date": "2020-11-11"
+  },
+  {
+    "name": "Liberation Day",
+    "date": "2020-03-03"
+  },
+  {
+    "name": "Good Friday",
+    "date": "2020-04-17"
+  },
+  {
+    "name": "Holy Saturday",
+    "date": "2020-04-18"
+  },
+  {
+    "name": "International Workers' Day",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Saint George's Day",
+    "date": "2020-05-06"
+  },
+  {
+    "name": "Saints Cyril and Methodius Day",
+    "date": "2020-05-24"
+  },
+  {
+    "name": "Unification Day",
+    "date": "2020-09-06"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-09-22"
+  },
+  {
+    "name": "Second day of Christmas",
+    "date": "2020-12-26"
+  },
+  {
+    "name": "Traditional Day",
+    "date": "2020-01-10"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-08-01"
+  },
+  {
+    "name": "Armed Forces Day",
+    "date": "2020-10-26"
+  },
+  {
+    "name": "National Day",
+    "date": "2020-11-30"
+  },
+  {
+    "name": "Feast of the Virgin of Candelaria",
+    "date": "2020-02-02"
+  },
+  {
+    "name": "Andean New Year",
+    "date": "2020-06-21"
+  },
+  {
+    "name": "Agrarian Reform Day",
+    "date": "2020-08-02"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-08-06"
+  },
+  {
+    "name": "All Saints' Day",
+    "date": "2020-11-02"
+  },
+  {
+    "name": "Tiradentes",
+    "date": "2020-04-21"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-09-07"
+  },
+  {
+    "name": "Our Lady of Aparecida",
+    "date": "2020-10-12"
+  },
+  {
+    "name": "All Souls' Day",
+    "date": "2020-11-02"
+  },
+  {
+    "name": "Republic Proclamation Day",
+    "date": "2020-11-15"
+  },
+  {
+    "name": "New Year's Day",
+    "date": "2020-01-03"
+  },
+  {
+    "name": "Majority Rule Day",
+    "date": "2020-01-10"
+  },
+  {
+    "name": "Perry Christie Day",
+    "date": "2020-04-03"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-07-10"
+  },
+  {
+    "name": "Emancipation Day",
+    "date": "2020-08-07"
+  },
+  {
+    "name": "National Heroes' Day",
+    "date": "2020-10-12"
+  },
+  {
+    "name": "Sir Seretse Khama Day",
+    "date": "2020-07-01"
+  },
+  {
+    "name": "Presidents' Day",
+    "date": "2020-07-20"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-09-30"
+  },
+  {
+    "name": "Botswana Day holiday",
+    "date": "2020-10-01"
+  },
+  {
+    "name": "Orthodox Christmas Day",
     "date": "2020-01-07"
   },
   {
@@ -12,20 +392,1860 @@
     "date": "2020-03-08"
   },
   {
-    "name": "Easter Sunday",
-    "date": "2020-04-19"
+    "name": "Commemoration Day",
+    "date": "2020-04-28"
   },
   {
-    "name": "International Workers' Day",
-    "date": "2020-05-01"
-  },
-  {
-    "name": "Victory day over Nazism in World War II",
+    "name": "Victory Day",
     "date": "2020-05-09"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-07-03"
+  },
+  {
+    "name": "October Revolution Day",
+    "date": "2020-11-07"
+  },
+  {
+    "name": "Catholic Christmas Day",
+    "date": "2020-12-25"
+  },
+  {
+    "name": "Baron Bliss Day",
+    "date": "2020-03-09"
+  },
+  {
+    "name": "Holy Saturday",
+    "date": "2020-04-11"
+  },
+  {
+    "name": "Commonwealth Day",
+    "date": "2020-05-24"
+  },
+  {
+    "name": "Saint George's Caye Day",
+    "date": "2020-09-10"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-09-21"
+  },
+  {
+    "name": "Day of the Americas",
+    "date": "2020-10-12"
+  },
+  {
+    "name": "Garifuna Settlement Day",
+    "date": "2020-11-19"
+  },
+  {
+    "name": "Boxing Day",
+    "date": "2020-12-28"
+  },
+  {
+    "name": "Victoria Day",
+    "date": "2020-05-18"
+  },
+  {
+    "name": "Canada Day",
+    "date": "2020-07-01"
+  },
+  {
+    "name": "Labour Day",
+    "date": "2020-09-07"
+  },
+  {
+    "name": "National Day for Truth and Reconciliation",
+    "date": "2020-09-30"
+  },
+  {
+    "name": "Thanksgiving",
+    "date": "2020-10-12"
+  },
+  {
+    "name": "Swiss National Day",
+    "date": "2020-08-01"
+  },
+  {
+    "name": "Navy Day",
+    "date": "2020-05-21"
+  },
+  {
+    "name": "Saint Peter and Saint Paul",
+    "date": "2020-06-27"
+  },
+  {
+    "name": "Our Lady of Mount Carmel",
+    "date": "2020-07-16"
+  },
+  {
+    "name": "Assumption of Mary",
+    "date": "2020-08-15"
+  },
+  {
+    "name": "National holiday",
+    "date": "2020-09-18"
+  },
+  {
+    "name": "Army Day",
+    "date": "2020-09-19"
+  },
+  {
+    "name": "Columbus Day",
+    "date": "2020-10-12"
+  },
+  {
+    "name": "Reformation Day",
+    "date": "2020-10-31"
+  },
+  {
+    "name": "All Saints",
+    "date": "2020-11-01"
+  },
+  {
+    "name": "Chinese New Year (Spring Festival)",
+    "date": "2020-01-25"
+  },
+  {
+    "name": "Qingming Festival (Tomb-Sweeping Day)",
+    "date": "2020-04-05"
+  },
+  {
+    "name": "Dragon Boat Festival",
+    "date": "2020-05-27"
+  },
+  {
+    "name": "Mid-Autumn Festival",
+    "date": "2020-10-01"
+  },
+  {
+    "name": "National Day",
+    "date": "2020-10-01"
+  },
+  {
+    "name": "Saint Joseph's Day",
+    "date": "2020-03-23"
+  },
+  {
+    "name": "Maundy Thursday",
+    "date": "2020-04-09"
+  },
+  {
+    "name": "Ascension Day",
+    "date": "2020-05-25"
+  },
+  {
+    "name": "Corpus Christi",
+    "date": "2020-06-15"
+  },
+  {
+    "name": "Sacred Heart",
+    "date": "2020-06-22"
+  },
+  {
+    "name": "Saint Peter and Saint Paul",
+    "date": "2020-06-29"
+  },
+  {
+    "name": "Declaration of Independence",
+    "date": "2020-07-20"
+  },
+  {
+    "name": "Battle of Boyacá",
+    "date": "2020-08-07"
+  },
+  {
+    "name": "Assumption of Mary",
+    "date": "2020-08-17"
+  },
+  {
+    "name": "All Saints’ Day",
+    "date": "2020-11-02"
+  },
+  {
+    "name": "Independence of Cartagena",
+    "date": "2020-11-16"
+  },
+  {
+    "name": "Juan Santamaría Day",
+    "date": "2020-04-11"
+  },
+  {
+    "name": "Annexation of the Party of Nicoya to Costa Rica",
+    "date": "2020-07-27"
+  },
+  {
+    "name": "Feast of Our Lady of the Angels",
+    "date": "2020-08-02"
+  },
+  {
+    "name": "Mother's Day",
+    "date": "2020-08-17"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-09-14"
+  },
+  {
+    "name": "Army Abolition Day",
+    "date": "2020-11-30"
+  },
+  {
+    "name": "Triumph of the Revolution",
+    "date": "2020-01-01"
+  },
+  {
+    "name": "Victory of Fidel Castro",
+    "date": "2020-01-02"
+  },
+  {
+    "name": "Day before the Commemoration of the Assault of the Moncada garrison",
+    "date": "2020-07-25"
+  },
+  {
+    "name": "Commemoration of the Assault of the Moncada garrison",
+    "date": "2020-07-26"
+  },
+  {
+    "name": "Day after the Commemoration of the Assault of the Moncada garrison",
+    "date": "2020-07-27"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-10-10"
+  },
+  {
+    "name": "Green Monday",
+    "date": "2020-03-02"
+  },
+  {
+    "name": "Greek Independence Day",
+    "date": "2020-03-25"
+  },
+  {
+    "name": "Cyprus National Day",
+    "date": "2020-04-01"
+  },
+  {
+    "name": "Easter Tuesday",
+    "date": "2020-04-21"
   },
   {
     "name": "Pentecost",
     "date": "2020-06-07"
+  },
+  {
+    "name": "Whit Monday",
+    "date": "2020-06-08"
+  },
+  {
+    "name": "Assumption of the Virgin Mary",
+    "date": "2020-08-15"
+  },
+  {
+    "name": "Cyprus Independence Day",
+    "date": "2020-10-01"
+  },
+  {
+    "name": "Ohi Day",
+    "date": "2020-10-28"
+  },
+  {
+    "name": "Liberation Day",
+    "date": "2020-05-08"
+  },
+  {
+    "name": "Saints Cyril and Methodius Day",
+    "date": "2020-07-05"
+  },
+  {
+    "name": "Jan Hus Day",
+    "date": "2020-07-06"
+  },
+  {
+    "name": "St. Wenceslas Day",
+    "date": "2020-09-28"
+  },
+  {
+    "name": "Independent Czechoslovak State Day",
+    "date": "2020-10-28"
+  },
+  {
+    "name": "Struggle for Freedom and Democracy Day",
+    "date": "2020-11-17"
+  },
+  {
+    "name": "German Unity Day",
+    "date": "2020-10-03"
+  },
+  {
+    "name": "General Prayer Day",
+    "date": "2020-05-08"
+  },
+  {
+    "name": "Bank closing day",
+    "date": "2020-05-22"
+  },
+  {
+    "name": "Constitution Day",
+    "date": "2020-06-05"
+  },
+  {
+    "name": "New Year's Eve",
+    "date": "2020-12-31"
+  },
+  {
+    "name": "Day of Kings",
+    "date": "2020-01-06"
+  },
+  {
+    "name": "Our Lady of Altagracia",
+    "date": "2020-01-21"
+  },
+  {
+    "name": "Duarte's Birthday",
+    "date": "2020-01-26"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-02-27"
+  },
+  {
+    "name": "Mother's Day",
+    "date": "2020-05-28"
+  },
+  {
+    "name": "Restoration Day",
+    "date": "2020-08-16"
+  },
+  {
+    "name": "Our Lady of Mercy",
+    "date": "2020-09-24"
+  },
+  {
+    "name": "Constitution Day",
+    "date": "2020-11-06"
+  },
+  {
+    "name": "The Battle of Pichincha",
+    "date": "2020-05-24"
+  },
+  {
+    "name": "Declaration of Independence of Quito",
+    "date": "2020-08-10"
+  },
+  {
+    "name": "Independence of Guayaquil",
+    "date": "2020-10-09"
+  },
+  {
+    "name": "Independence of Cuenca",
+    "date": "2020-11-03"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-02-24"
+  },
+  {
+    "name": "Spring Day",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Victory Day",
+    "date": "2020-06-23"
+  },
+  {
+    "name": "Midsummer Day",
+    "date": "2020-06-24"
+  },
+  {
+    "name": "Day of Restoration of Independence",
+    "date": "2020-08-20"
+  },
+  {
+    "name": "Christmas",
+    "date": "2020-01-07"
+  },
+  {
+    "name": "Revolution Day 2011 National Police Day",
+    "date": "2020-01-25"
+  },
+  {
+    "name": "Sinai Liberation Day",
+    "date": "2020-04-25"
+  },
+  {
+    "name": "Revolution Day",
+    "date": "2020-07-23"
+  },
+  {
+    "name": "Armed Forces Day",
+    "date": "2020-10-06"
+  },
+  {
+    "name": "Assumption",
+    "date": "2020-08-15"
+  },
+  {
+    "name": "Fiesta Nacional de España",
+    "date": "2020-10-12"
+  },
+  {
+    "name": "All Saints Day",
+    "date": "2020-11-01"
+  },
+  {
+    "name": "Constitution Day",
+    "date": "2020-12-06"
+  },
+  {
+    "name": "All Saints' Day",
+    "date": "2020-10-31"
+  },
+  {
+    "name": "National Flag Day",
+    "date": "2020-04-25"
+  },
+  {
+    "name": "Saint Olav's Eve",
+    "date": "2020-07-28"
+  },
+  {
+    "name": "Saint Olav's Day",
+    "date": "2020-07-29"
+  },
+  {
+    "name": "Victory in Europe Day",
+    "date": "2020-05-08"
+  },
+  {
+    "name": "Bastille Day",
+    "date": "2020-07-14"
+  },
+  {
+    "name": "Renovation Day",
+    "date": "2020-03-12"
+  },
+  {
+    "name": "Women's Day",
+    "date": "2020-04-17"
+  },
+  {
+    "name": "Martyr's Day",
+    "date": "2020-05-06"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-08-17"
+  },
+  {
+    "name": "Early May Bank Holiday",
+    "date": "2020-05-08"
+  },
+  {
+    "name": "Spring Bank Holiday",
+    "date": "2020-05-25"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-02-07"
+  },
+  {
+    "name": "Indian Arrival Day",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Emancipation Day",
+    "date": "2020-08-03"
+  },
+  {
+    "name": "Carnival",
+    "date": "2020-08-11"
+  },
+  {
+    "name": "Thanksgiving Day",
+    "date": "2020-10-25"
+  },
+  {
+    "name": "Early May Bank Holiday",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Liberation Day",
+    "date": "2020-05-09"
+  },
+  {
+    "name": "Summer Bank Holiday",
+    "date": "2020-08-31"
+  },
+  {
+    "name": "Commonwealth Day",
+    "date": "2020-03-09"
+  },
+  {
+    "name": "Workers' Memorial Day",
+    "date": "2020-04-28"
+  },
+  {
+    "name": "May Day Bank Holiday",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Queen's Birthday",
+    "date": "2020-06-08"
+  },
+  {
+    "name": "Gibraltar National Day",
+    "date": "2020-09-10"
+  },
+  {
+    "name": "Ullortuneq",
+    "date": "2020-06-21"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-02-18"
+  },
+  {
+    "name": "Africa Day",
+    "date": "2020-05-25"
+  },
+  {
+    "name": "Revolution Day",
+    "date": "2020-07-22"
+  },
+  {
+    "name": "Clean Monday",
+    "date": "2020-03-02"
+  },
+  {
+    "name": "Annunciation",
+    "date": "2020-03-25"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-03-25"
+  },
+  {
+    "name": "Ochi Day",
+    "date": "2020-10-28"
+  },
+  {
+    "name": "Army Day",
+    "date": "2020-06-30"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-09-15"
+  },
+  {
+    "name": "Revolution Day",
+    "date": "2020-10-20"
+  },
+  {
+    "name": "Republic Day",
+    "date": "2020-02-23"
+  },
+  {
+    "name": "Arrival Day",
+    "date": "2020-05-05"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-05-26"
+  },
+  {
+    "name": "Caricom Day",
+    "date": "2020-07-06"
+  },
+  {
+    "name": "America's Day",
+    "date": "2020-04-14"
+  },
+  {
+    "name": "Francisco Morazán's Day/Soldier's Day",
+    "date": "2020-10-03"
+  },
+  {
+    "name": "Army Day",
+    "date": "2020-10-21"
+  },
+  {
+    "name": "National Day",
+    "date": "2020-05-30"
+  },
+  {
+    "name": "Anti-Fascist Struggle Day",
+    "date": "2020-06-22"
+  },
+  {
+    "name": "Victory and Homeland Thanksgiving Day and the Day of Croatian defenders",
+    "date": "2020-08-05"
+  },
+  {
+    "name": "Remembrance Day",
+    "date": "2020-11-18"
+  },
+  {
+    "name": "St.Stephen's Day",
+    "date": "2020-12-26"
+  },
+  {
+    "name": "Ancestry Day",
+    "date": "2020-01-02"
+  },
+  {
+    "name": "Ash Wednesday",
+    "date": "2020-02-26"
+  },
+  {
+    "name": "Labour and Agriculture Day",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Flag and Universities Day",
+    "date": "2020-05-18"
+  },
+  {
+    "name": "Dessalines Day",
+    "date": "2020-10-17"
+  },
+  {
+    "name": "Battle of Vertières Day",
+    "date": "2020-11-18"
+  },
+  {
+    "name": "Discovery Day",
+    "date": "2020-12-05"
+  },
+  {
+    "name": "1848 Revolution Memorial Day",
+    "date": "2020-03-15"
+  },
+  {
+    "name": "Labour day",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "State Foundation Day",
+    "date": "2020-08-20"
+  },
+  {
+    "name": "1956 Revolution Memorial Day",
+    "date": "2020-10-23"
+  },
+  {
+    "name": "Pancasila Day",
+    "date": "2020-06-01"
+  },
+  {
+    "name": "Saint Patrick's Day",
+    "date": "2020-03-17"
+  },
+  {
+    "name": "May Day",
+    "date": "2020-05-04"
+  },
+  {
+    "name": "June Holiday",
+    "date": "2020-06-01"
+  },
+  {
+    "name": "August Holiday",
+    "date": "2020-08-03"
+  },
+  {
+    "name": "October Holiday",
+    "date": "2020-10-26"
+  },
+  {
+    "name": "Tynwald Day",
+    "date": "2020-07-06"
+  },
+  {
+    "name": "Senior Race Day",
+    "date": "2020-08-28"
+  },
+  {
+    "name": "Late Summer Bank Holiday",
+    "date": "2020-08-31"
+  },
+  {
+    "name": "First Day of Summer",
+    "date": "2020-04-23"
+  },
+  {
+    "name": "Icelandic National Day",
+    "date": "2020-06-17"
+  },
+  {
+    "name": "Commerce Day",
+    "date": "2020-08-03"
+  },
+  {
+    "name": "Liberation Day",
+    "date": "2020-04-25"
+  },
+  {
+    "name": "International Workers Day",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Republic Day",
+    "date": "2020-06-02"
+  },
+  {
+    "name": "Early May Bank Holiday",
+    "date": "2020-03-02"
+  },
+  {
+    "name": "Labour Day",
+    "date": "2020-05-23"
+  },
+  {
+    "name": "National Heroes Day",
+    "date": "2020-10-16"
+  },
+  {
+    "name": "Coming of Age Day",
+    "date": "2020-01-13"
+  },
+  {
+    "name": "Foundation Day",
+    "date": "2020-02-11"
+  },
+  {
+    "name": "The Emperor's Birthday",
+    "date": "2020-02-24"
+  },
+  {
+    "name": "Vernal Equinox Day",
+    "date": "2020-03-20"
+  },
+  {
+    "name": "Shōwa Day",
+    "date": "2020-04-29"
+  },
+  {
+    "name": "Constitution Memorial Day",
+    "date": "2020-05-04"
+  },
+  {
+    "name": "Greenery Day",
+    "date": "2020-05-04"
+  },
+  {
+    "name": "Children's Day",
+    "date": "2020-05-05"
+  },
+  {
+    "name": "Marine Day",
+    "date": "2020-07-20"
+  },
+  {
+    "name": "Sports Day",
+    "date": "2020-07-24"
+  },
+  {
+    "name": "Mountain Day",
+    "date": "2020-08-11"
+  },
+  {
+    "name": "Respect for the Aged Day",
+    "date": "2020-09-21"
+  },
+  {
+    "name": "Autumnal Equinox Day",
+    "date": "2020-09-22"
+  },
+  {
+    "name": "Culture Day",
+    "date": "2020-11-03"
+  },
+  {
+    "name": "Labour Thanksgiving Day",
+    "date": "2020-11-23"
+  },
+  {
+    "name": "Lunar New Year",
+    "date": "2020-01-24"
+  },
+  {
+    "name": "Lunar New Year",
+    "date": "2020-01-25"
+  },
+  {
+    "name": "Lunar New Year",
+    "date": "2020-01-27"
+  },
+  {
+    "name": "Independence Movement Day",
+    "date": "2020-03-01"
+  },
+  {
+    "name": "Buddha's Birthday",
+    "date": "2020-04-30"
+  },
+  {
+    "name": "Memorial Day",
+    "date": "2020-06-06"
+  },
+  {
+    "name": "Liberation Day",
+    "date": "2020-08-15"
+  },
+  {
+    "name": "Chuseok",
+    "date": "2020-09-30"
+  },
+  {
+    "name": "Chuseok",
+    "date": "2020-10-01"
+  },
+  {
+    "name": "Chuseok",
+    "date": "2020-10-02"
+  },
+  {
+    "name": "National Foundation Day",
+    "date": "2020-10-03"
+  },
+  {
+    "name": "Hangul Day",
+    "date": "2020-10-09"
+  },
+  {
+    "name": "St. Berchtold's Day",
+    "date": "2020-01-02"
+  },
+  {
+    "name": "Candlemas",
+    "date": "2020-02-02"
+  },
+  {
+    "name": "Saint Joseph's Day",
+    "date": "2020-03-19"
+  },
+  {
+    "name": "National Holiday",
+    "date": "2020-08-15"
+  },
+  {
+    "name": "Nativity of Our Lady",
+    "date": "2020-09-08"
+  },
+  {
+    "name": "Moshoeshoe Day",
+    "date": "2020-03-11"
+  },
+  {
+    "name": "Workers' Day",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Africa Day/ Heroes' Day",
+    "date": "2020-05-25"
+  },
+  {
+    "name": "King Letsie III's Birthday",
+    "date": "2020-07-17"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-10-04"
+  },
+  {
+    "name": "The Day of Restoration of the State of Lithuania",
+    "date": "2020-02-16"
+  },
+  {
+    "name": "Day of Restoration of Independence of Lithuania",
+    "date": "2020-03-11"
+  },
+  {
+    "name": "International Working Day",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "St. John's Day",
+    "date": "2020-06-24"
+  },
+  {
+    "name": "Statehood Day",
+    "date": "2020-07-06"
+  },
+  {
+    "name": "Europe Day",
+    "date": "2020-05-09"
+  },
+  {
+    "name": "Sovereign's birthday",
+    "date": "2020-06-23"
+  },
+  {
+    "name": "Restoration of Independence day",
+    "date": "2020-05-04"
+  },
+  {
+    "name": "Mother's day",
+    "date": "2020-05-10"
+  },
+  {
+    "name": "Midsummer Eve",
+    "date": "2020-06-23"
+  },
+  {
+    "name": "Proclamation Day of the Republic of Latvia",
+    "date": "2020-11-18"
+  },
+  {
+    "name": "Proclamation of Independence",
+    "date": "2020-01-11"
+  },
+  {
+    "name": "Enthronement",
+    "date": "2020-07-30"
+  },
+  {
+    "name": "Zikra Oued Ed-Dahab",
+    "date": "2020-08-14"
+  },
+  {
+    "name": "Revolution of the King and the People",
+    "date": "2020-08-20"
+  },
+  {
+    "name": "Youth Day",
+    "date": "2020-08-21"
+  },
+  {
+    "name": "Green March",
+    "date": "2020-11-06"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-11-18"
+  },
+  {
+    "name": "Saint Devota's Day",
+    "date": "2020-01-27"
+  },
+  {
+    "name": "All Saints Day",
+    "date": "2020-11-02"
+  },
+  {
+    "name": "National Day",
+    "date": "2020-11-19"
+  },
+  {
+    "name": "The Immaculate Conception",
+    "date": "2020-12-08"
+  },
+  {
+    "name": "​Christmas Day",
+    "date": "2020-12-25"
+  },
+  {
+    "name": "Craciun pe stil Vechi (Orthodox Christmas)",
+    "date": "2020-01-07"
+  },
+  {
+    "name": "Craciun pe stil Vechi (Orthodox Christmas)",
+    "date": "2020-01-08"
+  },
+  {
+    "name": "Day of Veterans of the Armed Forces and Law Enforcement Agencies",
+    "date": "2020-02-23"
+  },
+  {
+    "name": "Labour Day (Moldova)",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Victory and Commemoration Day",
+    "date": "2020-05-09"
+  },
+  {
+    "name": "Bălţi Day",
+    "date": "2020-05-22"
+  },
+  {
+    "name": "Independence Day (Moldova)",
+    "date": "2020-08-27"
+  },
+  {
+    "name": "Memorial Day",
+    "date": "2020-08-31"
+  },
+  {
+    "name": "Limba Noastra (National Language Day (Moldova))",
+    "date": "2020-08-31"
+  },
+  {
+    "name": "Day of the Moldovan National Army",
+    "date": "2020-09-03"
+  },
+  {
+    "name": "Capital's Day",
+    "date": "2020-10-14"
+  },
+  {
+    "name": "South Capital's Day Cahul",
+    "date": "2020-11-21"
+  },
+  {
+    "name": "Craciun pe stil Nou (Western Christmas)",
+    "date": "2020-12-25"
+  },
+  {
+    "name": "Orthodox Christmas Eve",
+    "date": "2020-01-06"
+  },
+  {
+    "name": "Orthodox Christmas Day",
+    "date": "2020-01-08"
+  },
+  {
+    "name": "Labour Day",
+    "date": "2020-05-02"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-05-21"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-05-22"
+  },
+  {
+    "name": "Statehood Day",
+    "date": "2020-07-13"
+  },
+  {
+    "name": "Statehood Day",
+    "date": "2020-07-14"
+  },
+  {
+    "name": "Catholic All Saints' Day",
+    "date": "2020-11-01"
+  },
+  {
+    "name": "Catholic Christmas Eve",
+    "date": "2020-12-24"
+  },
+  {
+    "name": "Catholic St. Stephen's Day",
+    "date": "2020-12-26"
+  },
+  {
+    "name": "Martyrs' Day",
+    "date": "2020-03-29"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-06-26"
+  },
+  {
+    "name": "Christmas Day",
+    "date": "2020-01-07"
+  },
+  {
+    "name": "Day of the Republic",
+    "date": "2020-08-02"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-09-08"
+  },
+  {
+    "name": "Revolution Day",
+    "date": "2020-10-11"
+  },
+  {
+    "name": "Day of the Macedonian Revolutionary Struggle",
+    "date": "2020-10-23"
+  },
+  {
+    "name": "Saint Clement of Ohrid Day",
+    "date": "2020-12-08"
+  },
+  {
+    "name": "Naadam Holiday",
+    "date": "2020-06-01"
+  },
+  {
+    "name": "Naadam Holiday",
+    "date": "2020-07-11"
+  },
+  {
+    "name": "Naadam Holiday",
+    "date": "2020-07-12"
+  },
+  {
+    "name": "Naadam Holiday",
+    "date": "2020-07-13"
+  },
+  {
+    "name": "Naadam Holiday",
+    "date": "2020-07-14"
+  },
+  {
+    "name": "Naadam Holiday",
+    "date": "2020-07-15"
+  },
+  {
+    "name": "Republic Day",
+    "date": "2020-11-26"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-12-29"
+  },
+  {
+    "name": "Labour Day",
+    "date": "2020-05-04"
+  },
+  {
+    "name": "Festival Day",
+    "date": "2020-12-31"
+  },
+  {
+    "name": "Feast of St. Paul's Shipwreck",
+    "date": "2020-02-10"
+  },
+  {
+    "name": "Feast of St. Joseph",
+    "date": "2020-03-19"
+  },
+  {
+    "name": "Freedom Day",
+    "date": "2020-03-31"
+  },
+  {
+    "name": "Worker's Day",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "​Sette Giugno",
+    "date": "2020-06-07"
+  },
+  {
+    "name": "​​Feast of St.Peter and St.Paul",
+    "date": "2020-06-29"
+  },
+  {
+    "name": "Feast of Our Lady of Victories",
+    "date": "2020-09-08"
+  },
+  {
+    "name": "​Feast of the Immaculate Conception",
+    "date": "2020-12-08"
+  },
+  {
+    "name": "Republic Day",
+    "date": "2020-12-13"
+  },
+  {
+    "name": "Constitution Day",
+    "date": "2020-02-03"
+  },
+  {
+    "name": "Benito Juárez's birthday",
+    "date": "2020-03-16"
+  },
+  {
+    "name": "Labor Day",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-09-16"
+  },
+  {
+    "name": "Revolution Day",
+    "date": "2020-11-16"
+  },
+  {
+    "name": "Heroes's Day",
+    "date": "2020-02-03"
+  },
+  {
+    "name": "Women's Day",
+    "date": "2020-04-07"
+  },
+  {
+    "name": "worker's Day",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-06-25"
+  },
+  {
+    "name": "Victory Day",
+    "date": "2020-09-07"
+  },
+  {
+    "name": "Revolution Day",
+    "date": "2020-09-25"
+  },
+  {
+    "name": "Day of Peace and Reconciliation",
+    "date": "2020-10-04"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-03-21"
+  },
+  {
+    "name": "Cassinga Day",
+    "date": "2020-05-04"
+  },
+  {
+    "name": "Heroes' Day",
+    "date": "2020-08-26"
+  },
+  {
+    "name": "Human Rights Day",
+    "date": "2020-12-10"
+  },
+  {
+    "name": "Concord Day",
+    "date": "2020-04-24"
+  },
+  {
+    "name": "Nigerien Independence Day",
+    "date": "2020-08-03"
+  },
+  {
+    "name": "Nigerien Republic Day",
+    "date": "2020-12-18"
+  },
+  {
+    "name": "Children's Day",
+    "date": "2020-05-27"
+  },
+  {
+    "name": "Democracy Day",
+    "date": "2020-06-12"
+  },
+  {
+    "name": "National Youth Day",
+    "date": "2020-11-01"
+  },
+  {
+    "name": "Air Force Day",
+    "date": "2020-02-01"
+  },
+  {
+    "name": "Holy Thursday",
+    "date": "2020-04-02"
+  },
+  {
+    "name": "Army Day",
+    "date": "2020-05-27"
+  },
+  {
+    "name": "Liberation Day",
+    "date": "2020-07-19"
+  },
+  {
+    "name": "Battle of San Jacinto",
+    "date": "2020-09-14"
+  },
+  {
+    "name": "Indigenous Resistance Day",
+    "date": "2020-10-12"
+  },
+  {
+    "name": "King's Day",
+    "date": "2020-04-27"
+  },
+  {
+    "name": "Liberation Day",
+    "date": "2020-05-05"
+  },
+  {
+    "name": "Constitution Day",
+    "date": "2020-05-17"
+  },
+  {
+    "name": "Day after New Year's Day",
+    "date": "2020-01-02"
+  },
+  {
+    "name": "Waitangi Day",
+    "date": "2020-02-06"
+  },
+  {
+    "name": "Anzac Day",
+    "date": "2020-04-27"
+  },
+  {
+    "name": "Queen's Birthday",
+    "date": "2020-06-01"
+  },
+  {
+    "name": "Labour Day",
+    "date": "2020-10-26"
+  },
+  {
+    "name": "Martyr's Day",
+    "date": "2020-01-09"
+  },
+  {
+    "name": "Separation Day",
+    "date": "2020-11-03"
+  },
+  {
+    "name": "Flag Day",
+    "date": "2020-11-04"
+  },
+  {
+    "name": "Colon Day",
+    "date": "2020-11-05"
+  },
+  {
+    "name": "Shout in Villa de los Santos",
+    "date": "2020-11-10"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-11-28"
+  },
+  {
+    "name": "Mothers' Day",
+    "date": "2020-12-08"
+  },
+  {
+    "name": "Holy Thursday",
+    "date": "2020-04-09"
+  },
+  {
+    "name": "St. Peter and St. Paul",
+    "date": "2020-06-29"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-07-28"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-07-29"
+  },
+  {
+    "name": "Santa Rosa de Lima",
+    "date": "2020-08-30"
+  },
+  {
+    "name": "Battle of Angamos",
+    "date": "2020-10-08"
+  },
+  {
+    "name": "Remembrance Day",
+    "date": "2020-07-23"
+  },
+  {
+    "name": "Repentance Day",
+    "date": "2020-08-26"
+  },
+  {
+    "name": "Constitution Day",
+    "date": "2020-05-03"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-11-11"
+  },
+  {
+    "name": "Three Kings Day / Epiphany",
+    "date": "2020-01-06"
+  },
+  {
+    "name": "Birthday of Eugenio María de Hostos",
+    "date": "2020-01-13"
+  },
+  {
+    "name": "Martin Luther King, Jr. Day",
+    "date": "2020-01-20"
+  },
+  {
+    "name": "Presidents' Day",
+    "date": "2020-02-17"
+  },
+  {
+    "name": "Birthday of Luis Muñoz Marín",
+    "date": "2020-02-18"
+  },
+  {
+    "name": "Emancipation Day",
+    "date": "2020-03-22"
+  },
+  {
+    "name": "Birthday of José de Diego",
+    "date": "2020-04-20"
+  },
+  {
+    "name": "Memorial Day",
+    "date": "2020-05-25"
+  },
+  {
+    "name": "Birthday of Don Luis Muñoz Rivera",
+    "date": "2020-07-20"
+  },
+  {
+    "name": "Puerto Rico Constitution Day",
+    "date": "2020-07-25"
+  },
+  {
+    "name": "Birthday of Dr. José Celso Barbosa",
+    "date": "2020-07-27"
+  },
+  {
+    "name": "Veterans Day",
+    "date": "2020-11-11"
+  },
+  {
+    "name": "Discovery of Puerto Rico",
+    "date": "2020-11-19"
+  },
+  {
+    "name": "Thanksgiving Day",
+    "date": "2020-11-26"
+  },
+  {
+    "name": "Freedom Day",
+    "date": "2020-04-25"
+  },
+  {
+    "name": "National Day",
+    "date": "2020-06-10"
+  },
+  {
+    "name": "Republic Day",
+    "date": "2020-10-05"
+  },
+  {
+    "name": "Restoration of Independence",
+    "date": "2020-12-01"
+  },
+  {
+    "name": "Heroes' day",
+    "date": "2020-03-01"
+  },
+  {
+    "name": "Paraguayan Independence",
+    "date": "2020-05-14"
+  },
+  {
+    "name": "Paraguayan Independence",
+    "date": "2020-05-15"
+  },
+  {
+    "name": "Chaco Armistice",
+    "date": "2020-06-12"
+  },
+  {
+    "name": "Founding of Asunción",
+    "date": "2020-08-15"
+  },
+  {
+    "name": "Boqueron Battle Victory Day",
+    "date": "2020-09-29"
+  },
+  {
+    "name": "Virgin of Caacupe",
+    "date": "2020-12-08"
+  },
+  {
+    "name": "Union Day/Small Union",
+    "date": "2020-01-24"
+  },
+  {
+    "name": "Children's Day",
+    "date": "2020-06-01"
+  },
+  {
+    "name": "Dormition of the Theotokos",
+    "date": "2020-08-15"
+  },
+  {
+    "name": "St. Andrew's Day",
+    "date": "2020-11-30"
+  },
+  {
+    "name": "National Day/Great Union",
+    "date": "2020-12-01"
+  },
+  {
+    "name": "Statehood Day",
+    "date": "2020-02-15"
+  },
+  {
+    "name": "Statehood Day",
+    "date": "2020-02-17"
+  },
+  {
+    "name": "New Year holiday",
+    "date": "2020-01-02"
+  },
+  {
+    "name": "New Year holiday",
+    "date": "2020-01-03"
+  },
+  {
+    "name": "New Year holiday",
+    "date": "2020-01-04"
+  },
+  {
+    "name": "New Year holiday",
+    "date": "2020-01-05"
+  },
+  {
+    "name": "New Year holiday",
+    "date": "2020-01-06"
+  },
+  {
+    "name": "Defender of the Fatherland Day",
+    "date": "2020-02-23"
+  },
+  {
+    "name": "Russia Day",
+    "date": "2020-06-12"
+  },
+  {
+    "name": "Unity Day",
+    "date": "2020-11-04"
+  },
+  {
+    "name": "National Day of Sweden",
+    "date": "2020-06-06"
+  },
+  {
+    "name": "New Year’s Day",
+    "date": "2020-01-01"
+  },
+  {
+    "name": "Chinese New Year",
+    "date": "2020-01-25"
+  },
+  {
+    "name": "Chinese New Year",
+    "date": "2020-01-26"
+  },
+  {
+    "name": "Vesak Day",
+    "date": "2020-05-07"
+  },
+  {
+    "name": "Hari Raya Puasa",
+    "date": "2020-05-25"
+  },
+  {
+    "name": "Hari Raya Haji",
+    "date": "2020-07-31"
+  },
+  {
+    "name": "National Day",
+    "date": "2020-08-10"
+  },
+  {
+    "name": "Deepavali",
+    "date": "2020-11-14"
+  },
+  {
+    "name": "Prešeren Day",
+    "date": "2020-02-08"
+  },
+  {
+    "name": "Day of Uprising Against Occupation",
+    "date": "2020-04-27"
+  },
+  {
+    "name": "May Day Holiday",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "May Day Holiday",
+    "date": "2020-05-02"
+  },
+  {
+    "name": "Statehood Day",
+    "date": "2020-06-25"
+  },
+  {
+    "name": "Day of the Dead",
+    "date": "2020-11-01"
+  },
+  {
+    "name": "Independence and Unity Day",
+    "date": "2020-12-26"
+  },
+  {
+    "name": "Day of the Establishment of the Slovak Republic",
+    "date": "2020-01-01"
+  },
+  {
+    "name": "Day of victory over fascism",
+    "date": "2020-05-08"
+  },
+  {
+    "name": "St. Cyril and Methodius Day",
+    "date": "2020-07-05"
+  },
+  {
+    "name": "Slovak National Uprising anniversary",
+    "date": "2020-08-29"
+  },
+  {
+    "name": "Day of the Constitution of the Slovak Republic",
+    "date": "2020-09-01"
+  },
+  {
+    "name": "Day of Our Lady of the Seven Sorrows",
+    "date": "2020-09-15"
+  },
+  {
+    "name": "All Saints’ Day",
+    "date": "2020-11-01"
+  },
+  {
+    "name": "Feast of Saint Agatha",
+    "date": "2020-02-05"
+  },
+  {
+    "name": "Anniversary of the Arengo",
+    "date": "2020-03-25"
+  },
+  {
+    "name": "Liberation from Fascism",
+    "date": "2020-07-28"
+  },
+  {
+    "name": "Ferragosto (Assumption)",
+    "date": "2020-08-15"
+  },
+  {
+    "name": "The Feast of San Marino and the Republic",
+    "date": "2020-09-03"
+  },
+  {
+    "name": "Commemoration of all those who died at war",
+    "date": "2020-11-02"
+  },
+  {
+    "name": "Three Kings Day",
+    "date": "2020-01-06"
+  },
+  {
+    "name": "World Religion Day",
+    "date": "2020-01-19"
+  },
+  {
+    "name": "Day of the Revolution",
+    "date": "2020-02-25"
+  },
+  {
+    "name": "Indian Arrival Day",
+    "date": "2020-06-05"
+  },
+  {
+    "name": "Keti Koti",
+    "date": "2020-07-01"
+  },
+  {
+    "name": "Javanese Arrival Day",
+    "date": "2020-08-08"
+  },
+  {
+    "name": "Indigenous People's Day",
+    "date": "2020-08-09"
+  },
+  {
+    "name": "Day of the Maroons",
+    "date": "2020-10-10"
+  },
+  {
+    "name": "Chinese Arrival day",
+    "date": "2020-10-20"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-11-25"
+  },
+  {
+    "name": "The Day of the Cross",
+    "date": "2020-05-03"
+  },
+  {
+    "name": "Soldiers' Day",
+    "date": "2020-05-07"
+  },
+  {
+    "name": "Mother's Day",
+    "date": "2020-05-10"
+  },
+  {
+    "name": "Father's Day",
+    "date": "2020-05-10"
+  },
+  {
+    "name": "August Festivals",
+    "date": "2020-08-01"
+  },
+  {
+    "name": "August Festivals",
+    "date": "2020-08-02"
+  },
+  {
+    "name": "August Festivals",
+    "date": "2020-08-03"
+  },
+  {
+    "name": "August Festivals",
+    "date": "2020-08-04"
+  },
+  {
+    "name": "August Festivals",
+    "date": "2020-08-05"
+  },
+  {
+    "name": "August Festivals",
+    "date": "2020-08-06"
+  },
+  {
+    "name": "August Festivals",
+    "date": "2020-08-07"
+  },
+  {
+    "name": "Children's Day",
+    "date": "2020-10-01"
+  },
+  {
+    "name": "Ethnic Pride Day",
+    "date": "2020-10-12"
+  },
+  {
+    "name": "Day of the Dead",
+    "date": "2020-11-02"
+  },
+  {
+    "name": "National Pupusa Festival",
+    "date": "2020-11-07"
+  },
+  {
+    "name": "National Pupusa Festival",
+    "date": "2020-11-08"
+  },
+  {
+    "name": "National Pupusa Festival",
+    "date": "2020-11-09"
+  },
+  {
+    "name": "National Pupusa Festival",
+    "date": "2020-11-10"
+  },
+  {
+    "name": "National Pupusa Festival",
+    "date": "2020-11-11"
+  },
+  {
+    "name": "National Pupusa Festival",
+    "date": "2020-11-12"
+  },
+  {
+    "name": "National Pupusa Festival",
+    "date": "2020-11-13"
+  },
+  {
+    "name": "Day of the Queen of Peace",
+    "date": "2020-11-21"
+  },
+  {
+    "name": "Revolution and Youth Day",
+    "date": "2020-01-14"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-03-20"
+  },
+  {
+    "name": "Martyrs' Day",
+    "date": "2020-04-09"
+  },
+  {
+    "name": "Victory Day",
+    "date": "2020-06-01"
+  },
+  {
+    "name": "Republic Day",
+    "date": "2020-07-25"
+  },
+  {
+    "name": "Women's Day",
+    "date": "2020-08-13"
+  },
+  {
+    "name": "Eid El Jala'",
+    "date": "2020-10-15"
+  },
+  {
+    "name": "National Independence & Children's Day",
+    "date": "2020-04-23"
+  },
+  {
+    "name": "Atatürk Commemoration & Youth Day",
+    "date": "2020-05-19"
+  },
+  {
+    "name": "Eid al-Fitr First Day",
+    "date": "2020-05-24"
+  },
+  {
+    "name": "Eid al-Fitr Second Day",
+    "date": "2020-05-25"
+  },
+  {
+    "name": "Eid al-Fitr Third Day",
+    "date": "2020-05-26"
+  },
+  {
+    "name": "Democracy and National Unity Day",
+    "date": "2020-07-15"
+  },
+  {
+    "name": "Eid al-Adha First Day",
+    "date": "2020-07-31"
+  },
+  {
+    "name": "Eid al-Adha Second Day",
+    "date": "2020-08-01"
+  },
+  {
+    "name": "Eid al-Adha Third Day",
+    "date": "2020-08-02"
+  },
+  {
+    "name": "Eid al-Adha Fourth Day",
+    "date": "2020-08-03"
+  },
+  {
+    "name": "Victory Day",
+    "date": "2020-08-30"
+  },
+  {
+    "name": "Republic Day",
+    "date": "2020-10-29"
+  },
+  {
+    "name": "(Julian) Christmas",
+    "date": "2020-01-07"
+  },
+  {
+    "name": "Victory day over Nazism in World War II",
+    "date": "2020-05-09"
   },
   {
     "name": "Constitution Day",
@@ -42,5 +2262,233 @@
   {
     "name": "(Gregorian and Revised Julian) Christmas",
     "date": "2020-12-25"
+  },
+  {
+    "name": "Washington's Birthday",
+    "date": "2020-02-17"
+  },
+  {
+    "name": "Children's Day",
+    "date": "2020-01-06"
+  },
+  {
+    "name": "Landing of the 33 Patriots Day",
+    "date": "2020-04-19"
+  },
+  {
+    "name": "Battle of Las Piedras",
+    "date": "2020-05-18"
+  },
+  {
+    "name": "Birthday of José Gervasio Artigas and Never Again Day",
+    "date": "2020-06-19"
+  },
+  {
+    "name": "Constitution Day",
+    "date": "2020-07-18"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-08-25"
+  },
+  {
+    "name": "Day of the race",
+    "date": "2020-10-12"
+  },
+  {
+    "name": "Deceased ones day",
+    "date": "2020-11-02"
+  },
+  {
+    "name": "Solemnity of Mary, Mother of God",
+    "date": "2020-01-01"
+  },
+  {
+    "name": "Anniversary of the foundation of Vatican City",
+    "date": "2020-02-11"
+  },
+  {
+    "name": "Anniversary of the election of Pope Francis",
+    "date": "2020-03-13"
+  },
+  {
+    "name": "Saint George",
+    "date": "2020-04-23"
+  },
+  {
+    "name": "Saint Joseph the Worker",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Saints Peter and Paul",
+    "date": "2020-06-29"
+  },
+  {
+    "name": "Nativity of Mary",
+    "date": "2020-09-08"
+  },
+  {
+    "name": "Feast of the Divina Pastora",
+    "date": "2020-01-14"
+  },
+  {
+    "name": "Teacher's Day",
+    "date": "2020-01-15"
+  },
+  {
+    "name": "Youth Day",
+    "date": "2020-02-12"
+  },
+  {
+    "name": "Federation Day",
+    "date": "2020-02-20"
+  },
+  {
+    "name": "St Joseph's Day",
+    "date": "2020-03-19"
+  },
+  {
+    "name": "Slavery Abolition Anniversary",
+    "date": "2020-03-21"
+  },
+  {
+    "name": "Foundation anniversary Day of San Cristóbal, Táchira",
+    "date": "2020-03-31"
+  },
+  {
+    "name": "Beginning of the Independence Movement",
+    "date": "2020-04-19"
+  },
+  {
+    "name": "Fiesta de las Cruces",
+    "date": "2020-05-03"
+  },
+  {
+    "name": "Father's Day",
+    "date": "2020-06-21"
+  },
+  {
+    "name": "Army Day",
+    "date": "2020-06-24"
+  },
+  {
+    "name": "Journalists' Day",
+    "date": "2020-06-27"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-07-05"
+  },
+  {
+    "name": "Children's Day",
+    "date": "2020-07-19"
+  },
+  {
+    "name": "Navy Day",
+    "date": "2020-07-24"
+  },
+  {
+    "name": "Caracas City Foundation Day",
+    "date": "2020-07-25"
+  },
+  {
+    "name": "Flag Day",
+    "date": "2020-08-03"
+  },
+  {
+    "name": "Birth of the Blessed Virgin Mary and feasts of the Virgen del Valle and Our Lady of Coromoto",
+    "date": "2020-09-08"
+  },
+  {
+    "name": "Feast of the Our Lady of Mercy",
+    "date": "2020-09-24"
+  },
+  {
+    "name": "Day of Indigenous Resistance",
+    "date": "2020-10-12"
+  },
+  {
+    "name": "Feria of La Chinita",
+    "date": "2020-11-17"
+  },
+  {
+    "name": "Feria of La Chinita",
+    "date": "2020-11-18"
+  },
+  {
+    "name": "Feria of La Chinita",
+    "date": "2020-11-19"
+  },
+  {
+    "name": "University Students Day",
+    "date": "2020-11-21"
+  },
+  {
+    "name": "Immaculate Conception, Loyalty Day",
+    "date": "2020-12-08"
+  },
+  {
+    "name": "Simon Bolivar Memorial Day",
+    "date": "2020-12-17"
+  },
+  {
+    "name": "Reunification Day",
+    "date": "2020-04-30"
+  },
+  {
+    "name": "National Day",
+    "date": "2020-09-02"
+  },
+  {
+    "name": "Human Rights Day",
+    "date": "2020-03-21"
+  },
+  {
+    "name": "Family Day",
+    "date": "2020-04-13"
+  },
+  {
+    "name": "Freedom Day",
+    "date": "2020-04-27"
+  },
+  {
+    "name": "Youth Day",
+    "date": "2020-06-16"
+  },
+  {
+    "name": "National Women's Day",
+    "date": "2020-08-10"
+  },
+  {
+    "name": "Heritage Day",
+    "date": "2020-09-24"
+  },
+  {
+    "name": "Day of Reconciliation",
+    "date": "2020-12-16"
+  },
+  {
+    "name": "Robert Mugabe National Youth Day",
+    "date": "2020-02-21"
+  },
+  {
+    "name": "Easter Saturday",
+    "date": "2020-04-11"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-04-18"
+  },
+  {
+    "name": "Heroes' Day",
+    "date": "2020-08-10"
+  },
+  {
+    "name": "Defence Forces Day",
+    "date": "2020-08-11"
+  },
+  {
+    "name": "Unity Day",
+    "date": "2020-12-22"
   }
 ]
