@@ -72,7 +72,7 @@ const CalendarDays: FC<CalendarDaysProps> = ({
         return;
       }
       const response = await fetch(
-        `../public/assets/holidays/${date.getFullYear()}.json`
+        `/calendar/assets/holidays/${date.getFullYear()}.json`
       );
 
       setHolidays(await response.json());
